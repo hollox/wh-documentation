@@ -2,6 +2,4 @@
 
 Documentation project related to the fictive company World Hosting.
 
-
-# logs
-
+[logs](./logs/index.md)
