@@ -9,7 +9,8 @@ There is currently two projets:
 ### wh-web (Front-end)
 
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/3)
-[Repository)](https://github.com/hollox/wh-web)
+
+[Repository](https://github.com/hollox/wh-web)
 
 Environments:
 - [production](https://www.worldhoster.live)
@@ -19,7 +20,8 @@ Environments:
 ### wh-tickets-api (Back-end)
   
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/1)
-[Repository)](https://github.com/hollox/wh-support-api)
+
+[Repository](https://github.com/hollox/wh-support-api)
 
 Environments:
 - [production](https://tickets-api.worldhoster.live/v1/tickets) 
