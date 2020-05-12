@@ -8,9 +8,9 @@
 ### 2020-05-09
 
 1. Creating github repositories:
-    - https://github.com/hollox/wh-web
-    - https://github.com/hollox/wh-support-api
-    - https://github.com/hollox/wh-documentation
+    - [https://github.com/hollox/wh-web](https://github.com/hollox/wh-web)
+    - [https://github.com/hollox/wh-support-api](https://github.com/hollox/wh-support-api)
+    - [https://github.com/hollox/wh-documentation](https://github.com/hollox/wh-documentation)
 
 1. Creating firsts tasks [Projects](https://github.com/hollox/wh-documentation/projects)
 
