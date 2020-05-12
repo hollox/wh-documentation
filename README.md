@@ -1,9 +1,12 @@
 # wh-documentation
 
-Documentation project related to the fictive company World Hoster.
+This repository serve as documentation project related to the fictive company World Hoster.
 
-[logs from 2020-05-08 to 2020-05-11](./logs/index.md)
+[Link to specifications](./documents/specifications.md)
 
+[Link to logs from 2020-05-08 to 2020-05-11](./documents/logs.md)
+
+## Description
 `Front-end` and `back-end` are `dockerized` and hosted on `Heroku` in three environments: `development`, `staging` and `production`. 
 
 `Sonarcloud` is used to accomplish `static analyzing` of the `codebase`.
@@ -16,9 +19,9 @@ The `security` will be assured by `Auth0`.
 
 The `database` will be in `Postgresql` format.
 
-There is currently two projets:
+The solution is composated as two projets.
 
-### wh-web (Front-end)
+### Project1: wh-web (Front-end)
 
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/3)
 
@@ -29,7 +32,7 @@ Environments:
 - [staging](http://staging.worldhoster.live)
 - [development](http://dev.worldhoster.live) 
     
-### wh-tickets-api (Back-end)
+### Project 2: wh-tickets-api (Back-end)
   
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/1)
 
