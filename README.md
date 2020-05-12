@@ -4,6 +4,18 @@ Documentation project related to the fictive company World Hoster.
 
 [logs from 2020-05-08 to 2020-05-11](./logs/index.md)
 
+`Front-end` and `back-end` are `dockerized` and hosted on `Heroku` in three environments: `development`, `staging` and `production`. 
+
+`Sonarcloud` is used to accomplish `static analyzing` of the `codebase`.
+
+The `codebase` is hosted on `github`.
+
+The `CI/CD` will be implemented by `github actions`.
+
+The `security` will be assured by `Auth0`.
+
+The `database` will be in `Postgresql` format.
+
 There is currently two projets:
 
 ### wh-web (Front-end)
