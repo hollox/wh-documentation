@@ -4,7 +4,10 @@ Documentation project related to the fictive company World Hoster.
 
 [logs from 2020-05-08 to 2020-05-11](./logs/index.md)
 
-There is currently two projets: wh-web (front-end) and wh-tickets-api (back-end):
+There is currently two projets:
+
+- [wh-web (front-end)](https://github.com/hollox/wh-web)
+- [wh-tickets-api (back-end)](https://github.com/hollox/wh-support-api)
 
 
 Project progress
