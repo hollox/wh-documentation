@@ -58,7 +58,11 @@ The front-end manage the implicit flow while the back-end validate the JWT token
 
 # Entities
 
-### Ticket status
+### Tickets
+
+A request opened by a customer.
+
+### Ticket statuses
 
 Those statuses manage the state of customer tickets.
 
@@ -68,7 +72,11 @@ Those statuses manage the state of customer tickets.
 | in progress | Ticket where an employee start to work on it
 | close       | Ticket where a user was satisfy by employee work
 
-### Message type 
+### Messages
+
+A message wrote by a customer, employee or manager to request more details about a ticket or communicating the progress of the ticket.
+
+### Message types
 
 Those types manage the state of messages so employees can hide certain messages.
 
