@@ -19,7 +19,7 @@ The `database` will be in `Postgresql` format.
 
 The solution consist in two projets.
 
-## Project1: wh-web (Front-end)
+### Project 1: wh-web (Front-end)
 
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/3)
 
