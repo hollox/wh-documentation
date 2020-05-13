@@ -22,7 +22,7 @@ Créer une application ayant pour but d’ouvrir une demande client et de pouvoi
 - [ ] Avoir la possibilité de répondre au ticket en tant que client ou staff
 - [ ] ne pas pouvoir répondre si le ticket est terminé
 - [ ] Page de visionnement des tickets
-- [ ] 3 ou 4 tables pour la base de données
+- [X] 3 ou 4 tables pour la base de données
 - [ ] Responsive
 - [X] Mettre le code sur GitHub ou envoyer un .zip
 
