@@ -24,8 +24,8 @@ The solution consist in two projets.
 
 Environments:
 - [production](https://www.worldhoster.live)
-- [staging](http://staging.worldhoster.live)
-- [development](http://dev.worldhoster.live) 
+- ~~[staging](http://staging.worldhoster.live)~~ (environment sleeping to reduce cost)
+- ~~[development](http://dev.worldhoster.live)~~ (environment sleeping to reduce cost)
     
 # Project 2: wh-tickets-api (Back-end)
 
@@ -35,8 +35,8 @@ Environments:
 
 Environments:
 - [production](https://tickets-api.worldhoster.live/v1/tickets) 
-- [staging](https://tickets-api.worldhoster.live/v1/tickets) 
-- [development](https://tickets-api.worldhoster.live/v1/tickets) 
+- ~~[staging](https://tickets-api.worldhoster.live/v1/tickets)~~ (environment sleeping to reduce cost)
+- ~~[development](https://tickets-api.worldhoster.live/v1/tickets)~~ (environment sleeping to reduce cost)
 
 # Security
 
