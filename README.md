@@ -162,3 +162,31 @@ Here the database schema:
 | creation_date    | time with timestamp
 | update_user_id   | uuid
 | update_date      | time with timestamp
+
+**users**
+
+| Name             | Type
+|------------------|--------
+| user_id          | uuid
+| firstname        | varchar(25)
+| lastname         | varchar(25)
+| email            | varchar(250)
+| user_type_id     | uuid
+||
+| creation_user_id | uuid
+| creation_date    | time with timestamp
+| update_user_id   | uuid
+| update_date      | time with timestamp
+
+**users_types**
+
+| Name             | Type
+|------------------|--------
+| type_id          | uuid
+| name             | varchar(25)
+| description      | text
+||
+| creation_user_id | uuid
+| creation_date    | time with timestamp
+| update_user_id   | uuid
+| update_date      | time with timestamp
