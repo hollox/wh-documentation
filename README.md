@@ -87,18 +87,6 @@ Those types manage the state of messages so employees can hide certain messages.
 | harmful | Hateful message not tolerated in a discussion
 | useless | Message without any value that make the discussion confusing
 
-### Customers
-
-A person that may represent an organization that require attention to an issue.
-
-### Employees
-
-A person that work for World Hoster or a partner that is trying to resolve the customer ticket.
-
-### Managers
-
-A person that manage the employee and validate the quality of the ticket process.
-
 ### Users
 
 An identity to access the system.
@@ -106,6 +94,13 @@ An identity to access the system.
 ### User types
 
 A type to identify users from customers, employees and managers.
+
+| Type        | Description
+|-------------|-------------------------
+| customer    | A person that may represent an organization that require attention to an issue.
+| employee    | A person that work for World Hoster or a partner that is trying to resolve the customer ticket.
+| manager     | A person that manage the employee and validate the quality of the ticket process.
+
 
 # Storage
 
