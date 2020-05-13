@@ -99,6 +99,14 @@ A person that work for World Hoster or a partner that is trying to resolve the c
 
 A person that manage the employee and validate the quality of the ticket process.
 
+### Users
+
+An identity to access the system.
+
+### User types
+
+A type to identify users from customers, employees and managers.
+
 # Storage
 
 Postgresl database manage the persistence of the application.
