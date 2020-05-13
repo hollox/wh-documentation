@@ -43,5 +43,3 @@
 1. Create an auth0 account
 
 2. Develop the front-end to acquire a JWT token
-
-3. Develop the back-end to validate the JWT token
