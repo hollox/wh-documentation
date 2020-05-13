@@ -115,6 +115,7 @@ Here the database schema:
 | title            | varchar(250)
 | html_body        | text
 | author_user_id   | uuid
+| ticket_status_id | uuid
 ||
 | creation_user_id | uuid
 | creation_date    | time with timestamp
