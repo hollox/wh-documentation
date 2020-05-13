@@ -20,11 +20,11 @@ Créer une application ayant pour but d’ouvrir une demande client et de pouvoi
 - [ ] Workflow d’un ticket (ouvert, en cours, terminé...)
 - [ ] Possibilité de mettre un rappel (suivi client/ avec une DateTime)
 - [ ] Avoir la possibilité de répondre au ticket en tant que client ou staff
-- [ ] a. ne pas pouvoir répondre si le ticket est terminé
+- [ ] ne pas pouvoir répondre si le ticket est terminé
 - [ ] Page de visionnement des tickets
 - [ ] 3 ou 4 tables pour la base de données
 - [ ] Responsive
-- [ ] Mettre le code sur GitHub ou envoyer un .zip
+- [X] Mettre le code sur GitHub ou envoyer un .zip
 
 ## Complément d’information
 

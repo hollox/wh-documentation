@@ -37,3 +37,11 @@
     - [production](https://tickets-api.worldhoster.live/v1/tickets) 
     - [staging](https://tickets-api.worldhoster.live/v1/tickets) 
     - [development](https://tickets-api.worldhoster.live/v1/tickets) 
+
+### 2020-05-12
+
+1. Create an auth0 account
+
+2. Develop the front-end to acquire a JWT token
+
+3. Develop the back-end to validate the JWT token
