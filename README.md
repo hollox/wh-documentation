@@ -93,7 +93,7 @@ An identity to access the system.
 
 ### User types
 
-A type to identify users from customers, employees and managers.
+A type to specify the user responsability.
 
 | Type        | Description
 |-------------|-------------------------
