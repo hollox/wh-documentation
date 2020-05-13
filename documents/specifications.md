@@ -7,11 +7,11 @@ Créer une application ayant pour but d’ouvrir une demande client et de pouvoi
 
 ## Environnement
 
-- Backend: Ruby on Rails Ou NodeJs
-- Frontend: de préférence Angular / VueJs ou autre Framework
-- Utilisation de bootstrap ou autre recommandé
-- CSS: libre
-- Base de données: Libre
+- [X] Backend: Ruby on Rails Ou NodeJs
+- [X] Frontend: de préférence Angular / VueJs ou autre Framework
+- [X] Utilisation de bootstrap ou autre recommandé
+- [X] CSS: libre
+- [X] Base de données: Libre
 
 ## Cahier de charge
 
