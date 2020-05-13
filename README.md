@@ -6,7 +6,6 @@ This repository serve as documentation project related to the fictive company Wo
 
 [Link to logs from 2020-05-08 to 2020-05-12](./documents/logs.md)
 
-## Description
 `Front-end` and `back-end` are `dockerized` and hosted on `Heroku` in three environments: `development`, `staging` and `production`. 
 
 `Sonarcloud` is used to accomplish `static analyzing` of the `codebase`.
@@ -15,11 +14,9 @@ The `codebase` is hosted on `github`.
 
 The `CI/CD` will be implemented by `github actions`.
 
-The `database` will be in `Postgresql` format.
-
 The solution consist in two projets.
 
-### Project 1: wh-web (Front-end)
+# Project 1: wh-web (Front-end)
 
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/3)
 
@@ -30,7 +27,7 @@ Environments:
 - [staging](http://staging.worldhoster.live)
 - [development](http://dev.worldhoster.live) 
     
-## Project 2: wh-tickets-api (Back-end)
+# Project 2: wh-tickets-api (Back-end)
 
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/1)
 
@@ -41,7 +38,7 @@ Environments:
 - [staging](https://tickets-api.worldhoster.live/v1/tickets) 
 - [development](https://tickets-api.worldhoster.live/v1/tickets) 
 
-### Security
+# Security
 
 [Auth0](auth0.com) assure the security of the application by acting as a Single Sign On.
 
