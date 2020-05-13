@@ -87,6 +87,18 @@ Those types manage the state of messages so employees can hide certain messages.
 | harmful | Hateful message not tolerated in a discussion
 | useless | Message without any value that make the discussion confusing
 
+### Customer
+
+A person that may represent an organization that require attention to an issue.
+
+### Employee
+
+A person that work for World Hoster or a partner that is trying to resolve the customer ticket.
+
+### Manager
+
+A person that manage the employee and validate the quality of the ticket process.
+
 # Storage
 
 Postgresl database manage the persistence of the application.
