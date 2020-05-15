@@ -31,7 +31,7 @@ Environments:
 
 [Tasks to complete](https://github.com/hollox/wh-documentation/projects/1)
 
-[Repository](https://github.com/hollox/wh-support-api)
+[Repository](https://github.com/hollox/wh-tickets-api)
 
 Environments:
 - [production](https://tickets-api.worldhoster.live/v1/tickets) 
