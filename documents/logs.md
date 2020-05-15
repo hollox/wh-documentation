@@ -42,4 +42,8 @@
 
 1. Create an auth0 account
 
-2. Develop the front-end to acquire a JWT token
+1. Develop the front-end to acquire a JWT token
+
+### 2020-05-14
+
+1. Develop the back-end to authenticate the JWT token 
