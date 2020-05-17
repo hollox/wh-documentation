@@ -47,3 +47,15 @@
 ### 2020-05-14
 
 1. Develop the back-end to authenticate the JWT token 
+
+### 2020-05-16
+
+1. Add organization form with validation 
+
+### 2020-05-17
+
+1. Set-up database migration
+
+1. Add organization end-point
+
+ 
