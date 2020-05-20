@@ -60,4 +60,8 @@
 
  ### 2020-05-18
  
- 1. Finalize Organizations Front-end form working with Back-end 
+ 1. Finalize organizations form working with the api
+ 
+ ### 2020-05-19
+ 
+ 1. Start users form working with the api
