@@ -65,3 +65,11 @@
  ### 2020-05-19
  
  1. Start users form working with the api
+ 
+ ### 2020-05-21
+ 
+ 1. Architecture the database
+ 
+ 1. Manage users on organizations by the back-end
+ 
+ 1. Manage users on organizations by the front-end
