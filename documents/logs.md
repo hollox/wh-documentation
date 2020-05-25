@@ -73,3 +73,29 @@
  1. Manage users on organizations by the back-end
  
  1. Manage users on organizations by the front-end
+ 
+ ### 2020-05-22
+ 
+ 1. Bind auth0 users with application users
+ 
+ ### 2020-05-23
+ 
+ 1. Bind auth0 users with application users
+ 
+ 1. Retrieve users from token on each request 
+ 
+ ### 2020-05-24
+ 
+ 1. Manage application security by groups and permissions
+ 
+ 1. Manage tickets by the back-end
+ 
+ 1. Manage tickets by the front-end
+ 
+ ### 2020-05-25
+ 
+ 1. Manage messages by the back-end
+ 
+ 1. Manage messages by the front-end
+ 
+ 
