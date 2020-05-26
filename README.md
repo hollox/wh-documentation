@@ -12,7 +12,7 @@ This repository serve as documentation project related to the fictive company Wo
 
 The `codebase` is hosted on `github`.
 
-The `CI/CD` will be implemented by `github actions`.
+The `CI/CD` is implemented by `github actions`.
 
 The solution consist in two projets.
 
@@ -76,30 +76,25 @@ Those statuses manage the state of customer tickets.
 
 A message wrote by a customer, employee or manager to request more details about a ticket or communicating the progress of the ticket.
 
-### Message types
-
-Those types manage the state of messages so employees can hide certain messages.
-
-| Type    | Description
-|---------|-------------------------
-| visible | Message that bring value to the discussion
-| spam    | Ads to remove from the discussion
-| harmful | Hateful message not tolerated in a discussion
-| useless | Message without any value that make the discussion confusing
-
 ### Users
 
 An identity to access the system.
 
-### User types
+### Groups
 
 A type to specify the user responsability.
 
-| Type        | Description
+| Group        | Description
 |-------------|-------------------------
 | customer    | A person that may represent an organization that require attention to an issue.
 | employee    | A person that work for World Hoster or a partner that is trying to resolve the customer ticket.
 | manager     | A person that manage the employee and validate the quality of the ticket process.
+
+### Permissions
+
+| Permission  | Description
+|-------------|-------------------------
+| access-all  | Able to read all tickets from all organizations
 
 
 # Storage

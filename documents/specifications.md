@@ -15,13 +15,13 @@ Créer une application ayant pour but d’ouvrir une demande client et de pouvoi
 
 ## Cahier de charge
 
-- [ ] Formulaire de soumission de ticket
+- [X] Formulaire de soumission de ticket
 - [ ] Formulaire de création d’utilisateur client et staff
 - [ ] Workflow d’un ticket (ouvert, en cours, terminé...)
 - [ ] Possibilité de mettre un rappel (suivi client/ avec une DateTime)
-- [ ] Avoir la possibilité de répondre au ticket en tant que client ou staff
+- [X] Avoir la possibilité de répondre au ticket en tant que client ou staff
 - [ ] ne pas pouvoir répondre si le ticket est terminé
-- [ ] Page de visionnement des tickets
+- [X] Page de visionnement des tickets
 - [X] 3 ou 4 tables pour la base de données
 - [ ] Responsive
 - [X] Mettre le code sur GitHub ou envoyer un .zip
