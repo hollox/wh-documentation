@@ -98,4 +98,11 @@
  
  1. Manage messages by the front-end
  
+ 1. Fix bootstrap javascript issue
+ 
+ 1. Adjusts ticket status by the back-end
+ 
+ 1. Adjusts ticket status by the front-end
+ 
+ 
  
